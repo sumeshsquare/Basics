@@ -1,10 +1,13 @@
-print ('Feb 11')
-#---------------
+class Person:
 
-print("""\
-Usage: thingy [OPTIONS]
-     -h                        Display this usage message
-     -H hostname               Hostname to connect to
-""")
+    def setFullName(chef, firstName, lastName):
+        chef.firstName = firstName
+        chef.lastName = lastName
+
+    def prinFullName(chef):
+        print(chef.firstName, chef.lastName)
 
 
+personName = Person()
+personName.setFullName("Sumesh", "S")
+personName.prinFullName()
