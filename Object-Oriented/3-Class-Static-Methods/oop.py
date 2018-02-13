@@ -1,5 +1,3 @@
-import datetime
-
 
 class Employee:
 
@@ -51,14 +49,13 @@ emp_str_3 = 'Jane-Doe-90000'
 
 first, last, pay = emp_str_1.split('-')
 
-# new_emp_1 = Employee(first, last, pay)
+#new_emp_1 = Employee(first, last, pay)
 new_emp_1 = Employee.from_string(emp_str_1)
 
 print(new_emp_1.email)
 print(new_emp_1.pay)
 
-
-my_date = datetime.date(2018, 2, 12)
-print(my_date)
+import datetime
+my_date = datetime.date(2016, 7, 11)
 
 print(Employee.is_workday(my_date))
