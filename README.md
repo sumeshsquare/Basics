@@ -1,8 +1,8 @@
 # Basics
 
-##Python-Basics
+## Python-Basics
 
-...
+```
 n = 123456
 tot = 0
 while n > 0:
@@ -12,4 +12,4 @@ while n > 0:
 
 print(tot)
 
-...
+```
