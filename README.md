@@ -7,8 +7,8 @@ Practice the python program examples in below link to smoothen python coding exp
 
 ### Master in DataTypes
 
-1. Array : https://www.programiz.com/python-programming/array
-2. Linked List : https://www.codefellows.org/blog/implementing-a-singly-linked-list-in-python/
+1. [Array](https://www.programiz.com/python-programming/array)
+2. [Linked List](https://dbader.org/blog/python-linked-list)
 3. Stack
 4. Queue
 
