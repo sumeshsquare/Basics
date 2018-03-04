@@ -104,3 +104,5 @@ lst.prepend('X')
 lst.append('the')
 lst.append('end')
 print(lst)
+print(lst)
+
