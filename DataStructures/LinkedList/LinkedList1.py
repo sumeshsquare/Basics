@@ -104,5 +104,7 @@ lst.prepend('X')
 lst.append('the')
 lst.append('end')
 print(lst)
+lst.reverse()
+print(lst.find(42))
 print(lst)
 
