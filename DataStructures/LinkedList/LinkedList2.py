@@ -1,3 +1,4 @@
+#Complete remaining Operations
 class Node:
     def __init__(self, contents=None, next=None):
         self.contents = contents

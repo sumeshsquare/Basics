@@ -105,6 +105,7 @@ lst.append('the')
 lst.append('end')
 print(lst)
 lst.reverse()
+lst.remove(42)
 print(lst.find(42))
 print(lst)
 
