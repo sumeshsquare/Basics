@@ -1,6 +1,6 @@
-## Python-Basics
+## Programming-Basics [Python]
 
-### My catalog for learning python for a better future.
+### My catalog for learning Programming for a better future.
 
 Practice the python program examples in below link to smoothen python coding experience: 
 > [Practice Python](http://www.sanfoundry.com/python-problems-solutions/)
